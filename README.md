@@ -3,7 +3,7 @@
 - Clone the project
 
 ```bash
-  git clone https://https://github.com/JAYAKANTHARUN/GuessTheNumber
+  git clone https://github.com/JAYAKANTHARUN/GuessTheNumber
 ```
 
 - Go to the project directory
